@@ -5,3 +5,4 @@ tutorial2.ipynb - exploring PySpark Dataframes
 tutorial3.ipynb - Handling Missing (null) values
 tutorial4.ipynb - Filtering Operations
 tutorial5.ipynb - GroupBy and Aggregate Functions
+tutorial6.ipynb - Doing ML with PySpark
